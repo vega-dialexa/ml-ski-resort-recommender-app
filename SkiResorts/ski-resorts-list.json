@@ -1,0 +1,103 @@
+[
+    {
+        "resortName": "Aspen Mountain",
+        "state": "Colorado",
+        "region": "central"
+    },
+    {
+        "resortName": "Aspen Highlands",
+        "state": "Colorado",
+        "region": "central"
+    },
+    {
+        "resortName": "Snowmass",
+        "state": "Colorado",
+        "region": "central"
+    },
+    {
+        "resortName": "Buttermilk",
+        "state": "Colorado",
+        "region": "central"
+    },
+    {
+        "resortName": "Beaver Creek",
+        "state": "Colorado",
+        "region": "north central"
+    },
+    {
+        "resortName": "Breckenridge",
+        "state": "Colorado",
+        "region": "north central"
+    },
+    {
+        "resortName": "Copper Mountain",
+        "state": "Colorado",
+        "region": "north central"
+    },
+    {
+        "resortName": "Crested Butte",
+        "state": "Colorado",
+        "region": "south central"
+    },
+    {
+        "resortName": "Steamboat",
+        "state": "Colorado",
+        "region": "north"
+    },
+    {
+        "resortName": "Keystone",
+        "state": "Colorado",
+        "region": "north central"
+    },
+    {
+        "resortName": "Telluride",
+        "state": "Colorado",
+        "region": "south"
+    },
+    {
+        "resortName": "Vail",
+        "state": "Colorado",
+        "region": "north central"
+    },
+    {
+        "resortName": "Winter Park",
+        "state": "Colorado",
+        "region": "north"
+    },
+    {
+        "resortName": "Wolf Creek",
+        "state": "Colorado",
+        "region": "south"
+    },
+    {
+        "resortName": "Loveland",
+        "state": "Colorado",
+        "region": "north central"
+    },
+    {
+        "resortName": "Monarch",
+        "state": "Colorado",
+        "region": "south central"
+    },
+    {
+        "resortName": "Arapahoe Basin",
+        "state": "Colorado",
+        "region": "north central"
+    },
+    {
+        "resortName": "Eldora",
+        "state": "Colorado",
+        "region": "north"
+    },
+    {
+        "resortName": "Silverton Mountain",
+        "state": "Colorado",
+        "region": "south"
+        
+    },
+    {
+        "resortName": "Purgatory",
+        "state": "Colorado",
+        "region": "south"
+    }
+]
